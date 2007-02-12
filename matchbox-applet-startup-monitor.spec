@@ -1,5 +1,5 @@
 Summary:	Matchbox applet that provides feedback on application startup
-Summary(pl.UTF-8):   Aplet środowiska Matchbox informujący o uruchamianiu aplikacji
+Summary(pl.UTF-8):	Aplet środowiska Matchbox informujący o uruchamianiu aplikacji
 Name:		matchbox-applet-startup-monitor
 Version:	0.1
 Release:	1
